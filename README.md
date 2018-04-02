@@ -8,6 +8,7 @@ Para instruções detalhadas de como instanciar um servidor local Node-RED, por 
 2. Na interface web Node-RED, clique sobre o MENU localizado no canto direito superior da tela
 3. Selecione Manage Pallete
 4. Instale a biblioteca "node-red-contrib-crypto-js"
+5. Instale a biblioteca "node-red-dashboard"
 
 
 # Quick Start
@@ -16,3 +17,5 @@ Para instruções detalhadas de como instanciar um servidor local Node-RED, por 
 3. Selecione "Import" --> from Clipboard
 4. Cole o conteúdo da área de transferência
 5. Confirme a Importação. 
+6. Execute o deploy
+7. Abra o dashboard na aba dasboard --> Site
