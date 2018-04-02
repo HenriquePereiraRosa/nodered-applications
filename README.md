@@ -4,15 +4,15 @@ Exemplos de aplicações de blocos de programação em Node-RED para se obter da
 Para instruções detalhadas de como instanciar um servidor local Node-RED, por favor, veja a documentação disponível em https://smartcampus.maua.br
 
 # Pré requisitos
-Instalação da biblioteca crypto através do Manage Pallets da interface web do Node-RED
-Na interface web Node-RED, clique sobre o MENU localizado no canto direito superior da tela
-Selecione Manage Pallete
-Instale a biblioteca "node-red-contrib-crypto-js"
+1. Instalação da biblioteca crypto através do Manage Pallets da interface web do Node-RED
+2. Na interface web Node-RED, clique sobre o MENU localizado no canto direito superior da tela
+3. Selecione Manage Pallete
+4. Instale a biblioteca "node-red-contrib-crypto-js"
 
 
 # Quick Start
-Copie o conteúdo dos arquivos json para a área de transferência
-Na interface web Node-RED, clique sobre o MENU localizado no canto direito superior da tela
-Selecione "Import" --> from Clipboard
-Cole o conteúdo da área de transferência
-Confirme a Importação. 
+1. Copie o conteúdo dos arquivos json para a área de transferência
+2. Na interface web Node-RED, clique sobre o MENU localizado no canto direito superior da tela
+3. Selecione "Import" --> from Clipboard
+4. Cole o conteúdo da área de transferência
+5. Confirme a Importação. 
