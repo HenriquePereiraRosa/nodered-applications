@@ -17,5 +17,5 @@ Para instruções detalhadas de como instanciar um servidor local Node-RED, por 
 3. Selecione "Import" --> from Clipboard
 4. Cole o conteúdo da área de transferência
 5. Confirme a Importação. 
-6. Execute o deploy
+6. Compile clicando sobre o botão de deploy
 7. Abra o dashboard na aba dashboard --> Site
